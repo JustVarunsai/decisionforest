@@ -1,0 +1,19 @@
+<svg width="200" height="50" viewBox="0 0 200 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="logoGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D4F3C"/>
+      <stop offset="100%" stop-color="#00D9A5"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Icon -->
+  <rect x="0" y="5" width="40" height="40" rx="10" fill="url(#logoGrad)"/>
+  <path d="M20 12L28 17V33L20 38L12 33V17L20 12Z" stroke="white" stroke-width="1.5" fill="none"/>
+  <path d="M20 18L24 21V29L20 32L16 29V21L20 18Z" fill="white"/>
+
+  <!-- Text -->
+  <text x="52" y="32" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="800">
+    <tspan fill="#0D4F3C">Decision</tspan>
+    <tspan fill="#00D9A5">Forest</tspan>
+  </text>
+</svg>
